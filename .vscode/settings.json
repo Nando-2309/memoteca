@@ -1,0 +1,5 @@
+{
+    "typescript.tsdk":  "D:/LEANDRO/DOWNLOADS/2438-angular-memoteca-aula-6/memoteca/node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk":  true,
+    "js/ts.tsdk.path":  "D:/LEANDRO/DOWNLOADS/2438-angular-memoteca-aula-6/memoteca/node_modules/typescript/lib"
+}
